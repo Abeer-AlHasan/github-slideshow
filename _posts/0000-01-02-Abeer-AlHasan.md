@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-trying to understand GitHub 1 December 2021
+First step in GitHub :)
 Use the left arrow to go back!
